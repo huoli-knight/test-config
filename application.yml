@@ -1,0 +1,7 @@
+spring:
+ profiles:
+  active: test
+ aplication:
+  name: config-server-local
+server:
+ port: 8051
